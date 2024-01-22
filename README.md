@@ -1,6 +1,6 @@
 # coc5143ccac362df5eb422ce0
 
-Quick start:
+Quick start: 
 
 ```
 $ npm install
